@@ -1,0 +1,61 @@
+/* 
+google font css link
+*/
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+}
+.main{
+    display: flex;
+    margin: 100px;
+}
+.orange{
+    color: orange;
+}
+.half-width{
+    width: 50%;
+}
+.person-img{
+margin-left: 150px;
+    width: 400px;
+    height: 300px;
+}
+a{
+    text-decoration: none;
+    background-color: orange;
+    padding: 8px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+
+}
+.new-mission{
+    display: flex;
+    margin: 50px;
+}
+.illustrator{
+    height: 250px;
+    width: 250px;
+}
+.mission{
+    margin:50px;
+    padding: 20px;
+    border-radius: 20px;
+}
+#mission1{
+    background-color: #edf5f6;
+
+}
+#mission2{
+    background-color: #ffeeee;
+}
+#mission3{
+    background-color:#fff4d6;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+.center{
+    text-align: center;
+}
